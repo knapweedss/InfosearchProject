@@ -30,4 +30,7 @@ python3 create_corpora_file.py data.jsonl
 Пример запуска:
 `
 python3 create_pickle_files.py ../data/prep_texts.txt /Users/mariadolgodvorova/PycharmProjects/InfosearchProject/
+
+- ../data/prep_texts.txt - путь к предобработанному корпусу prep_texts
+-  /Users/mariadolgodvorova/PycharmProjects/InfosearchProject/ - путь к проекту (заканчивается на InfosearchProject/ )
 `
