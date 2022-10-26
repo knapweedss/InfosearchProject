@@ -1,6 +1,6 @@
 # Интерфейс
 
-![](img/front.png)
+![](img/beer.png)
 
 ## Запуск
 
