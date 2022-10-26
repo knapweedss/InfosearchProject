@@ -3,7 +3,8 @@
 
 - Все необходимые файлы уже созданы и доступны по ссылке на гугл диске:
 
-Должны лежать в папке data
+- Должны лежать в папке data
+
 Пример запуска:
 `
 streamlit run main.py /Users/mariadolgodvorova/PycharmProjects/InfosearchProject
