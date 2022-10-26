@@ -4,10 +4,10 @@
 
 ## Запуск
 
-- Все необходимые файлы уже созданы и доступны по ссылке на гугл диске:
+- Предобработанный корпус и корпус .txt уже лежат в папке data 
+- Необходимо создаьть файлы .pickle - create_pickle_files.py в src (или скачать по ссылке https://drive.google.com/drive/folders/11XCONn_rVLQpyYfGdXk6P5mN6j7AForW?usp=sharing)
 
-- Должны лежать в папке data
-- Предобработанный корпус: https://drive.google.com/drive/folders/11XCONn_rVLQpyYfGdXk6P5mN6j7AForW?hl=ru
+- Файлы .pickle также должны лежать в папке data
 
 Пример запуска:
 `
