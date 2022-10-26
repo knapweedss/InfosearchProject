@@ -15,7 +15,7 @@ streamlit run main.py /Users/mariadolgodvorova/PycharmProjects/InfosearchProject
 `
 - Обязательный аргумент - полный путь к папке проекта (заканчивается на InfosearchProject)
 ### Папка src
-**Запускать код из этой папки не очень рекомендуется (работает долго), все необходимые файлы в папке data**
+
 - preprocess_data.py - предобработка данных
 
 - create_corpora_file.py - создание корпуса ответов .txt из .jsonl. Из аргументов - путь к корпусу jsonl
