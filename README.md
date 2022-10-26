@@ -5,7 +5,7 @@
 ## Запуск
 
 - Предобработанный корпус и корпус .txt уже лежат в папке data 
-- Необходимо создаьть файлы .pickle - create_pickle_files.py в src (или скачать по ссылке https://drive.google.com/drive/folders/11XCONn_rVLQpyYfGdXk6P5mN6j7AForW?usp=sharing)
+- Необходимо создаьть файлы .pickle - create_pickle_files.py в src
 
 - Файлы .pickle также должны лежать в папке data
 
