@@ -7,7 +7,7 @@
 - Предобработанный корпус и корпус .txt уже лежат в папке data 
 - Необходимо скачать папку data.zip с необходимыми файлами моделей или создать файлы .pickle (и .bt для берта) - create_pickle_files.py в src (подробнее о запуске кода в src ниже)
 
-Ссылка на скачивание data.zip: 
+Ссылка на скачивание data.zip: https://drive.google.com/drive/folders/11XCONn_rVLQpyYfGdXk6P5mN6j7AForW?usp=sharing
 
 - Файлы .pickle также должны лежать в папке data
 
